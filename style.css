@@ -1,0 +1,141 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    
+}
+
+header{
+    background-color: #415e9b;
+    height: 100px;
+    border-bottom: 1px solid #133783;
+
+}
+.header-blocks{
+     
+    width: 992px;
+    margin: 0auto ;
+
+}
+.logo{
+     width: 50%;
+     float: left;
+}
+.Facebook-Login{
+    width: 50%;
+    float:left;
+}
+.logo img{
+    padding-top:  10px;
+    padding-bottom: 30px;
+}
+.header-block label{
+    color: rgba(255, 255, 255, 0.956);
+}
+.email{
+    float:left;
+}
+.email label{
+    padding-bottom: 10px;
+}
+.email input[type="text"]{
+    height: 20px;
+}
+.password{
+    float:left;
+    margin-left: 20px;
+}
+.password label{
+    padding-bottom: 10px;
+    margin-left: 15px;
+}
+.password input[type="pass"]{
+    height: 20px;
+}
+.password a{
+    color:white;
+    margin-: 10px ;
+    text-decoration: none ;
+    
+}
+.Login-Button{
+    float:left;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+.Login-Button input[type="submit"]{
+    background: #133783;
+    border: 10px red;
+    border-radius: 2px;
+    color:white;
+    height:20px;
+}
+.clearflx{
+    clear: both;
+}
+.block content{
+    width:50px;
+    margin:0 auto;
+}
+.facebook-connect{
+    margin-top:50px;
+    float: left;
+    width: 50%;
+   
+}
+.facebook-connect p{
+    color:rgb(6, 6, 243);
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+.facebook-connect img{
+    margin-top: 10px;
+    width:80%;
+    height:50%;
+}
+
+.create-account{
+    float: right;
+    margin-top: 50px;
+   
+}
+.create-account h2{
+    font-size:40px;
+}
+.create-account p{
+    font-weight:bold;
+    font-size:20px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.account input[type="text"]{
+
+     margin-bottom: 15px;
+     border-radius: 5px;
+     padding: 10px;
+}
+.account input[type="password"]{
+ 
+    margin-bottom: 15px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.account label{
+    font-weight:bold;
+    font-size:18px;
+    margin-bottom:15px;
+}
+.account input[type="radio"]{
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.Button input[type="submit"]{
+    background-color: rgb(34, 180, 34);
+    font-size: 25px;
+    padding:15px 22px;
+    border: 1px solid black
+    
+}
